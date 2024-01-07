@@ -1,10 +1,12 @@
 <h1>Hi, I'm George!
 <h2> Cybersecurity Projects: </h2>
-
+  
 - [Active Directory Home Lab](https://github.com/George-Upton4/ActiveDirectoryLab)
+- [Windows Penetration Report]()
 
 <h2> Software Development Projects: </h2>
 
+- [Senior Project (Greybound)](https://github.com/comp195/senior-project-spring-2022-greybound-2d-pixel-game/tree/Version2)
 
 <h2> Certifications </h2>
 
