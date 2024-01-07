@@ -8,7 +8,7 @@
 <h2> Software Development Projects: </h2>
 
 - [Senior Project (Greybound)](https://github.com/comp195/senior-project-spring-2022-greybound-2d-pixel-game/tree/Version2)
-- [Bump Mapping with WebGL]()
+- [Bump Mapping with WebGL](https://github.com/George-Upton4/BumpMapping)
 
 <h2> Certifications </h2>
 
